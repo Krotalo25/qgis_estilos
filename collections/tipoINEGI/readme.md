@@ -5,4 +5,4 @@ Esto para usar las capas desponibles en su sección de datos abiertos con repres
 No se encuentran todos los estilos y simbolos, los voy actualizando conforme los utlice. 
 Los coloboradoes para complementarlos son bienvenidos.
 
-![alt text](https://raw.githubusercontent.com/qgis_estilos/collections/tipoINEGI/preview/estilos_previo.png
+![alt text](https://raw.githubusercontent.com/qgis_estilos/collections/tipoINEGI/preview/estilos_previo.png)
