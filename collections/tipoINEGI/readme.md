@@ -1,1 +1,0 @@
-Simbolos tipo INEGI
