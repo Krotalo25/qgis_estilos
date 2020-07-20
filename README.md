@@ -1,9 +1,9 @@
 # qgis_estilos
 
 ## Descripción 📋
-Estilos de símbolos, etiquetas y modelos usados y creados en **QGIS** - [https://qgis.org] elaborados a partir de laversión 3.14
+Estilos de símbolos, etiquetas y modelos usados y creados en [**QGIS**](https://qgis.org) versión 3.14
 
-El repostirorio se elaboró de acuerdo a los lineamientos de **QGIS Resource Sharing** - [http://qgis-contribution.github.io/QGIS-ResourceSharing/author/creating-repository.html].
+El repostirorio se elaboró de acuerdo a los lineamientos de [**QGIS Resource Sharing**](http://qgis-contribution.github.io/QGIS-ResourceSharing/author/creating-repository.html).
 
 ## Colección de símbolos y estilos tipo INEGI 📖
 
