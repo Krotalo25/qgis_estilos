@@ -1,4 +1,4 @@
-# qgis_estilos
+# Estilos para QGIS
 
 ## Descripción 📋
 Estilos de símbolos, etiquetas y modelos usados y creados en [**QGIS**](https://qgis.org) versión 3.14
