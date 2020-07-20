@@ -10,3 +10,9 @@ El repostirorio se elaboró de acuerdo a los lineamientos de [**QGIS Resource Sh
 ![alt text](https://github.com/Krotalo25/qgis_estilos/blob/master/collections/tipoINEGI/preview/estilos_previo.png)
 
 ![alt text](https://github.com/Krotalo25/qgis_estilos/blob/master/collections/tipoINEGI/preview/simbolos_previo.png)
+
+### Instalación 🔧
+Primero debes instalar el complemento [**QGIS Resource Sharing**](http://qgis-contribution.github.io/QGIS-ResourceSharing/author/creating-repository.html)
+Despues agregalo a los repositorios instalados de la siguiente forma:
+
+![alt text](https://github.com/Krotalo25/qgis_estilos/blob/master/Mi%20video.gif)
